@@ -3,7 +3,10 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-subject,Subjects,true
+subjectcontents,Subjects,true
+illustrator,Illustrator,true
+painter,Painter,true
+engraver,Engraver,true
 location,Location
 latitude,Latitude
 longitude,Longitude
