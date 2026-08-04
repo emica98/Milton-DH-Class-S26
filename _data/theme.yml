@@ -11,7 +11,7 @@
 featured-image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Paradise_Lost_of_John_Milton_with_Illustrations_by_John_Martin_MET_DP-13532-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 10em # Default is 8em
+home-title-y-padding: 15em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: top
 
