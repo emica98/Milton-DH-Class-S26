@@ -20,7 +20,8 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: GRADLIS 9732 Summer 2026 Digital Humanities: Milton Collection
+title: >-
+  GRADLIS 9732 Summer 2026 Digital Humanities: Milton Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A sample collection of Milton S26 Digital Humanities
 # description appears in meta tags and other locations
