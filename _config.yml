@@ -26,7 +26,7 @@ title: >-
 tagline: A sample collection of Milton S26 Digital Humanities
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This website is the author's attempt at using GitHub Colleciton Builder to showcase a sample Milton scholarship collection, based off of Western Libraries' Milton Collection on GH CollectionBuilder Milton@Western"
+description: "This website is the author's attempt at using GitHub Collection Builder to showcase a sample Milton scholarship collection. The content provided is based off of Western Libraries' Milton Collection with [Milton@Western](https://westernlibrsc.github.io/MiltonatWestern/)."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Emily Carrasco-Acosta and Western Libraries
 
